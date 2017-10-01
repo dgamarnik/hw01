@@ -7,7 +7,7 @@ My name is **Dan Gamarnik** and I am currently in the [MAPSS program](https://ma
 
 My main focus is in political science and some of my research interests include:
 
-* War and State building (from ancient to contemporary).
+* War and State-building (from ancient to contemporary).
 * Secession demands and distrobution. 
 * Co-nationality and inter-state conquest.
 
